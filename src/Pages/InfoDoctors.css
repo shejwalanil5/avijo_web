@@ -1,0 +1,59 @@
+.infoDoctors{
+    width: 1200px;
+    height: 577px;
+    gap: 64px;
+    margin-left: 100px;
+
+}
+.infoDoctors h1{
+    width: 665px;
+    height: 32px;
+    font-family: 'Noto Serif JP';
+    font-weight: 700;
+    font-size: 44px;
+    color: #0097DB;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 5px;
+}
+.information-doctors{
+    display: flex;
+    width: 1200px;
+    height: 481px;
+    gap: 36px;
+}
+.infoDoctors-right{
+    width: 807px;
+    height: 383px;
+    gap: 36px;
+}
+.infoDoctors-right h2{
+    width: 187px;
+    height: 46px;
+    font-family: 'Noto Serif JP';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 45.98px;
+    color: #0097DB;
+
+}
+.infoDoctors-right p{
+    width: 707px;
+    height: 35px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #3B3B3B;
+}
+.infoDoctors-right button{
+    width: 300px;
+    height: 32px;
+    font-family: 'Inter';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #FFFFFF;
+    background-color: #0097DB;
+    border: none;
+}

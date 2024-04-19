@@ -1,0 +1,42 @@
+.pharmacy{
+    width: 1200px;
+    height: 481px;
+    gap: 36px;
+    display: flex;
+    margin-left: 100px;
+}
+.pharmacy-left{
+    width: 707px;
+    height: 383px;
+    gap: 32px;
+
+}
+.pharmacy-left h2{
+    width: 224px;
+    height: 46px;
+    font-family: 'Noto Serif JP';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 45.98px;
+    color: #0097DB;
+}
+.pharmacy-left p{
+    width: 727px;
+    height: 35px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3B3B3B;
+}
+.pharmacy-left button{
+    width: 350px;
+    height: 32px;
+    font-family: 'Inter';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #FFFFFF;
+    background-color: #0097DB;
+    border: none;
+}

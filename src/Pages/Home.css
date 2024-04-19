@@ -1,0 +1,83 @@
+.header{
+    background-color: #fff;
+}
+.main-header{
+    width: 1200px;
+    height: 92px;
+    color: #FFFFFF;
+}
+.main-header p{
+    width: 150px;
+    font-size: 64px;
+    height: 100px;
+    margin-top: 14px;
+    margin-left: 100px;
+    color: #0097DB;
+}
+.sub-header{
+    width: 1200px;
+    height: 846px;
+    margin-top: 50px;
+    margin-left: 100px;
+    gap: 148px;
+}
+.sub-header-top{
+    width: 740px;
+    height: 459px;
+    margin-left: 100px;
+}
+.sub-header-top h1{
+    width: 740px;
+    height: 228px;
+    margin-top: 140px;
+    margin-left: 100px;
+    font-family: 'Noto Sans Thai';
+    font-weight: 500;
+    font-size: 320px;
+    line-height: 20px;
+    letter-spacing: 3%;
+    color: #0097DB;
+    text-align: center;
+}
+.sub-header-top h3{
+    width: 426px;
+    height: 23px;
+    margin-top: -195px;
+    margin-left: 250px;
+    font-family: 'Noto Sans Thai';
+    font-weight: 500;
+    font-size: 32px;
+    color: #0097DB;
+    text-align: center;
+}
+.sub-header-bottom{
+    width: 1200px;
+    height: 193px;
+}
+.sub-header-bottom h2{
+    width: 308px;
+    height: 35px;
+    margin-top: -100px;
+    margin-left: 440.5px;
+    font-family: 'Noto Serif JP';
+    font-weight: 700;
+    font-size: 48px;
+    color: #0097DB;
+}
+.sub-header-bottom p{
+    width: 1200px;
+    height: 146px;
+    margin-top: 93px;
+    font-size: 'Noto Sans Thai';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 42.5px;
+}
+.sub-header-bottom span{
+    font-family: 'Noto Sans Thai';
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42.31px;
+    color: #0097DB;
+
+}

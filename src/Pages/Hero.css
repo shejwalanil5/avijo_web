@@ -1,0 +1,43 @@
+.heroSection-top img{
+    width: 1000;
+    height: 630px;
+    margin-top: -100px;
+    margin-left: 100px;
+
+}
+.heroSection-bottom{
+    width: 1200px;
+    height: 343px;
+    margin-left: 100px;
+    gap: 92px;
+}
+.heroSection-bottom h2{
+    width: 1031px;
+    height: 35px;
+    font-family: 'Noto Serif JP';
+    font-weight: 700;
+    font-size: 48px;
+    color: #0097DB;
+    text-align: center;
+}
+.heroSection-bottom p{
+    width: 1200px;
+    height: 152px;
+    font-family: 'Noto Sans Thai';
+    font-family: 400;
+    font-size: 28px;
+    line-height: 42.31px;
+
+}
+.heroSection-bottom span{
+    font-family: 'Noto Sans Thai';
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42.31px;
+    color: #0097DB;
+}
+hr{
+    width: 1200px;
+    
+
+}
