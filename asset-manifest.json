@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.87e259b5.css",
-    "main.js": "/static/js/main.e7ddb0d9.js",
-    "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
-    "static/media/information.png": "/static/media/information.4e370efe3d01e6ccaa5d.png",
-    "static/media/image.png": "/static/media/image.9e6f8e2969946f8f33c7.png",
-    "static/media/hppc.png": "/static/media/hppc.3eb6288a7121fa20c44b.png",
-    "static/media/labs.png": "/static/media/labs.3eb6288a7121fa20c44b.png",
-    "static/media/doctors.png": "/static/media/doctors.ba851f85fd11a979fdb7.png",
-    "static/media/pharmacy.png": "/static/media/pharmacy.ba851f85fd11a979fdb7.png",
-    "index.html": "/index.html",
-    "main.87e259b5.css.map": "/static/css/main.87e259b5.css.map",
-    "main.e7ddb0d9.js.map": "/static/js/main.e7ddb0d9.js.map",
-    "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/avijo_web/static/css/main.87e259b5.css",
+    "main.js": "/avijo_web/static/js/main.703f997b.js",
+    "static/js/453.64512fd7.chunk.js": "/avijo_web/static/js/453.64512fd7.chunk.js",
+    "static/media/information.png": "/avijo_web/static/media/information.4e370efe3d01e6ccaa5d.png",
+    "static/media/image.png": "/avijo_web/static/media/image.9e6f8e2969946f8f33c7.png",
+    "static/media/hppc.png": "/avijo_web/static/media/hppc.3eb6288a7121fa20c44b.png",
+    "static/media/labs.png": "/avijo_web/static/media/labs.3eb6288a7121fa20c44b.png",
+    "static/media/doctors.png": "/avijo_web/static/media/doctors.ba851f85fd11a979fdb7.png",
+    "static/media/pharmacy.png": "/avijo_web/static/media/pharmacy.ba851f85fd11a979fdb7.png",
+    "index.html": "/avijo_web/index.html",
+    "main.87e259b5.css.map": "/avijo_web/static/css/main.87e259b5.css.map",
+    "main.703f997b.js.map": "/avijo_web/static/js/main.703f997b.js.map",
+    "453.64512fd7.chunk.js.map": "/avijo_web/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87e259b5.css",
-    "static/js/main.e7ddb0d9.js"
+    "static/js/main.703f997b.js"
   ]
 }
